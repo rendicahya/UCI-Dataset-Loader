@@ -89,7 +89,3 @@ def car_eval():
     y = df[:, 6]
 
     return X, y
-
-
-if __name__ == '__main__':
-    print(wine())
