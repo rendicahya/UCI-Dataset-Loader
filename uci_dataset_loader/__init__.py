@@ -1,1 +1,1 @@
-from uci_dataset_loader import uci
+name = 'UCI-Dataset-Loader'
